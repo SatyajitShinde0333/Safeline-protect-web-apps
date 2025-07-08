@@ -95,34 +95,5 @@ to see [Configuration](https://docs.waf.chaitin.com/en/GetStarted/AddApplication
 | **Accuracy**      | 82.20%               | 98.40%               | **99.45%**             | 99.38%                |
 
 
-#### Is SafeLine Production-Ready?
 
-Yes, SafeLine is production-ready.
 
-- Over 180,000 installations worldwide
-- Protecting over 1,000,000 Websites
-- Handling over 30,000,000,000 HTTP Requests Daily
-
-#### 🙋‍♂️ Community
-
-Join our [Discord](https://discord.gg/SVnZGzHFvn) to get community support, the core team members are identified by the STAFF role in Discord.
-
-- channel [#feedback](https://discord.com/channels/1243085666485534830/1243120292822253598): for new features discussion.
-- channel [#FAQ](https://discord.com/channels/1243085666485534830/1263761679619981413): for FAQ.
-- channel [#general](https://discord.com/channels/1243085666485534830/1243115843919806486): for any other questions.
-
-Several contact options exist for our community, the primary one being Discord. These are in addition to GitHub issues for creating a new issue.
-
-<p align="left">
-  <a target="_blank" href="https://discord.gg/SVnZGzHFvn"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"></a> &nbsp;
-  <a target="_blank" href="https://x.com/safeline_waf"><img src="https://img.shields.io/badge/X.com-000000?style=flat&logo=x&logoColor=white"></a> &nbsp;
-  <a target="_blank" href="/images/wechat.png"><img src="https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white"></a>
-</p>
-
-#### 💪 PRO Edition
-
-Coming soon!
-
-#### 📝 License
-
-See [LICENSE](/LICENSE.md) for details.
